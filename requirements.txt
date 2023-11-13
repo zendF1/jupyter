@@ -44,3 +44,20 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# TypeScript-related packages (optional)
+# TypeScript language server
+typescript-language-server
+
+# Linter for TypeScript
+typescript-eslint
+
+# TypeScript formatter
+prettier
+
+# TypeScript package manager
+npm
+
+# Additional TypeScript libraries or frameworks (example: React)
+typescript-react
+
