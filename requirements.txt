@@ -44,29 +44,3 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
-
-# TypeScript-related packages (optional)
-# Add any necessary TypeScript-related packages here
-
-# TypeScript package manager
-npm
-
-# TypeScript linter
-eslint
-
-# TypeScript compiler
-tsc
-
-# Typings for Node.js
-@types/node
-
-# Jest for testing TypeScript
-jest
-ts-jest
-
-# Axios for making HTTP requests
-axios
-
-# React bindings for TypeScript
-@types/react
-@types/react-dom
